@@ -25,7 +25,7 @@
 
 #### 📫 How to reach me
 
-- 📧 Email: kocetmaksim27@gmail.com
+- 📧 Email: maks.data7841@gmail.com
 
 ---
 
