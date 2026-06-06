@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there 👋 I'm Maks
 
-<!--
-**maks-data/maks-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring **Data Analyst**, currently studying at [GoIT](https://goit.global/ua/).
+📊 Learning to turn raw data into clear, actionable insights.
+🇺🇦 Based in Ukraine.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook, Git & GitHub
+- **Learning next:** Power BI / Tableau, Statistics, A/B testing
+
+#### 📂 Current Projects
+
+- 📷 [**camera-market-analysis**](https://github.com/maks-data/camera-market-analysis) — аналіз ринку відеоспостереження в Україні (Python, Pandas, Matplotlib)
+
+#### 🌱 About me
+
+- 🔭 Working on building a portfolio of real-world data analysis projects
+- 📚 Studying SQL, statistics, and data visualization best practices
+- 🗣️ Languages: Ukrainian (native), English (A2, improving)
+
+#### 📫 How to reach me
+
+- 📧 Email: kocetmaksim27@gmail.com
+
+---
+
+*Thanks for stopping by! Feel free to check out my repositories.* ⭐
